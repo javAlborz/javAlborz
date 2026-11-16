@@ -1,5 +1,5 @@
-I build AI tools, self-hosted infrastructure, and small applications that I keep improving over time.
+I like building useful things and improving them over time. Most of my projects involve AI tools, developer workflows, or the homelab where I run them.
 
-Outside work, I maintain a homelab and develop [freest.io](https://freest.io), a rap-battle party game for the browser.
+I’m also building [freest.io](https://freest.io), a browser-based rap-battle party game.
 
 [Writing](https://alborz.hajavi.com/writing/) · [CV](https://alborz.hajavi.com/cv/)
